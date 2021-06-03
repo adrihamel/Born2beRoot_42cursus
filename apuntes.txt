@@ -1,0 +1,17 @@
+# La guia a seguir es la siguiente:
+https://www.notion.so/Born2beRoot-119a7adf2b404b459fa565a3b0940912
+
+# Administrar usuarios, grupos
+https://eltallerdelbit.com/usuarios-grupos-linux/#modificar_usuarios_comando_usermod
+
+# Una vez instalado sudo, para poder acceder a través de sudo su con mi usuario, hay que modificar los permisos de /etc/sudoers (reboot despues)
+https://unix.stackexchange.com/questions/179954/username-is-not-in-the-sudoers-file-this-incident-will-be-reported
+
+# Reglas para la contraseña
+https://computingforgeeks.com/enforce-strong-user-password-policy-ubuntu-debian/
+
+# Pagina habilita insultos cuando escribes mal la pass de root
+https://blog.sudo.ws/posts/2019/11/which-sudo-users-to-insult-sudo-configuration-basics/
+
+
+
