@@ -1,5 +1,11 @@
 # Born2beRoot_42cursus
 
+
+Actual Status : finished
+
+Result : [![aguerrer's 42Project Score](https://badge42.herokuapp.com/api/project/aguerrer/Born2beroot)](https://github.com/JaeSeoKim/badge42)
+
+
 ## *sudo*
 
 ### Step 1: Installing *sudo*
@@ -496,3 +502,6 @@ FTP into your virtual machine via `ftp <ip-address>`.
 $ ftp <ip-address>
 ```
 Terminate FTP session at any time via `CTRL + D`.
+  
+  
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
