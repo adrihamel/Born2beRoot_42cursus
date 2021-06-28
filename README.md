@@ -502,6 +502,3 @@ FTP into your virtual machine via `ftp <ip-address>`.
 $ ftp <ip-address>
 ```
 Terminate FTP session at any time via `CTRL + D`.
-  
-  
-[![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
